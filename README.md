@@ -1,63 +1,38 @@
-```c
-/*
-===============================================
-Author   : Jason Brandon Loi
-Role     : Computer Science Student
-Location : Indonesia
-University : BINUS University
-===============================================
-*/
+<div align="center">
 
-#include <stdio.h>
+### `print("Hello, World! I'm Jason.")`
 
-struct Developer {
-    char name[50];
-    char role[50];
-    char university[50];
-    char country[50];
-};
+*Computer Science Student · Builder · Competitor*
 
-void printBanner() {
-    printf("=============================================\n");
-    printf("        Jason Brandon Loi\n");
-    printf("   Computer Science Student | BINUS\n");
-    printf("=============================================\n\n");
-}
+</div>
 
-void printAbout() {
-    printf("[About]\n");
-    printf("- GitHub used mainly for code archives\n");
-    printf("- Most repositories are open source\n");
-    printf("- Some private repositories exist\n\n");
-}
+---
 
-void printAchievements() {
-    printf("[Achievements]\n");
-    printf("1. 1st Winner  - 12th ICP HUB Hackathon 2025\n");
-    printf("2. 3rd Winner  - 13th ICP HUB Hackathon 2025\n");
-    printf("3. Top 10      - Google APAC Solution Challenge 2025\n");
-    printf("4. Top 6       - Compsphere KAI Hackathon 2025\n");
-    printf("5. Participant - ICPC Asia Jakarta Regional 2025\n");
-    printf("6. Participant - CSC Binus CTF Contest 2024\n\n");
-}
+## About Me
 
-int main() {
-
-    struct Developer dev = {
-        "Jason Brandon Loi",
-        "Computer Science Student",
-        "BINUS University",
-        "Indonesia"
-    };
-
-    printBanner();
-    printAbout();
-    printAchievements();
-    printf("Status: Ready to build cool things.\n");
-
-    return 0;
-}
+```python
+class Jason:
+    university  = "BINUS University"
+    location    = "Jakarta, Indonesia"
+    interests   = ["ML/AI", "Full-Stack", "Blockchain", "Competitive Tech"]
+    currently   = "Building cool things & competing harder"
+    motto       = "Adapt. Absorb. Execute."
 ```
+
+---
+
+## Achievements
+
+| Place | Achievement | Year |
+|---|---|---|
+| 1st | 12th ICP HUB Hackathon | 2025 |
+| 3rd | 13th ICP HUB Hackathon | 2025 |
+| Top 10 | Google APAC Solution Challenge | 2025 |
+| Top 6 | Compsphere KAI Hackathon | 2025 |
+| Innovation Award | BRICS Industrial Innovation Contest — AI Track | 2026 |
+| Participant | ICPC Asia Jakarta Regional | 2025 |
+| Participant | CSC BINUS CTF Contest | 2024 |
+
 <p align="left">
 
 <!-- Programming Languages -->
