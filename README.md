@@ -33,14 +33,15 @@
 
 ## About Me
 
-```python
-class Jason:
-    university  = "BINUS University"
-    location    = "Jakarta, Indonesia"
-    interests   = ["ML/AI", "Full-Stack", "Blockchain", "Competitive Tech"]
-    currently   = "Building cool things & competing harder"
-    motto       = "Adapt. Absorb. Execute."
-\```
+```java
+public class Jason {
+    String university  = "BINUS University";
+    String location    = "Jakarta, Indonesia";
+    String[] interests = {"ML/AI", "Full-Stack", "Blockchain", "Competitive Tech"};
+    String currently   = "Building cool things & competing harder";
+    String motto       = "Adapt. Absorb. Execute.";
+}
+```
 
 ---
 
@@ -55,9 +56,6 @@ class Jason:
 | Innovation Award | BRICS Industrial Innovation Contest — AI Track | 2026 |
 | Participant | ICPC Asia Jakarta Regional | 2025 |
 | Participant | CSC BINUS CTF Contest | 2024 |
-```
-
-Note: `<pre>` tag bikin font monospace dan ga wrap, jadi ASCII art-nya bakal keliatan persis kayak di gambar lo tadi di GitHub.
 
 <p align="left">
 
