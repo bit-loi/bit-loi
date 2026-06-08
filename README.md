@@ -1,4 +1,27 @@
 <div align="center">
+<pre>
+         _____                    _____                    _____  
+        /\    \                  /\    \                  /\    \ 
+       /::\    \                /::\    \                /::\____\
+       \:::\    \              /::::\    \              /:::/    /
+        \:::\    \            /::::::\    \            /:::/    / 
+         \:::\    \          /:::/\:::\    \          /:::/    /  
+          \:::\    \        /:::/__\:::\    \        /:::/    /   
+          /::::\    \      /::::\   \:::\    \      /:::/    /    
+ _____   /::::::\    \    /::::::\   \:::\    \    /:::/    /     
+/\    \ /:::/\:::\    \  /:::/\:::\   \:::\ ___\  /:::/    /      
+/::\    /:::/  \:::\____\/:::/__\:::\   \:::|    |/:::/____/       
+\:::\  /:::/    \::/    /\:::\   \:::\  /:::|____|\:::\    \       
+ \:::\/:::/    / \/____/  \:::\   \:::\/:::/    /  \:::\    \      
+  \::::::/    /            \:::\   \::::::/    /    \:::\    \     
+   \::::/    /              \:::\   \::::/    /      \:::\    \    
+    \::/    /                \:::\  /:::/    /        \:::\    \   
+     \/____/                  \:::\/:::/    /          \:::\    \  
+                               \::::::/    /            \:::\    \ 
+                                \::::/    /              \:::\____\
+                                 \::/____/                \::/    /
+                                  ~~                       \/____/ 
+</pre>
 
 ### `print("Hello, World! I'm Jason.")`
 
@@ -17,7 +40,7 @@ class Jason:
     interests   = ["ML/AI", "Full-Stack", "Blockchain", "Competitive Tech"]
     currently   = "Building cool things & competing harder"
     motto       = "Adapt. Absorb. Execute."
-```
+\```
 
 ---
 
@@ -32,6 +55,9 @@ class Jason:
 | Innovation Award | BRICS Industrial Innovation Contest — AI Track | 2026 |
 | Participant | ICPC Asia Jakarta Regional | 2025 |
 | Participant | CSC BINUS CTF Contest | 2024 |
+```
+
+Note: `<pre>` tag bikin font monospace dan ga wrap, jadi ASCII art-nya bakal keliatan persis kayak di gambar lo tadi di GitHub.
 
 <p align="left">
 
