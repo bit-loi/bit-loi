@@ -47,13 +47,13 @@ public class Jason {
 
 ## Achievements
 
-| Place | Achievement | Year |
+| Place | Achievements | Year |
 |---|---|---|
 | 1st | 12th ICP HUB Hackathon | 2025 |
 | 3rd | 13th ICP HUB Hackathon | 2025 |
 | Top 10 | Google APAC Solution Challenge | 2025 |
 | Top 6 | Compsphere KAI Hackathon | 2025 |
-| Innovation Award | BRICS Industrial Innovation Contest — AI Track | 2026 |
+| Innovation Award | BRICS Industrial Innovation Contest — Artificial Intelligence Track | 2026 |
 | Semi Finalist | APAC Huawei Developer Competition | 2025 |
 | Participant | ICPC Asia Jakarta Regional | 2025 |
 | Participant | CSC BINUS CTF Contest | 2024 |
