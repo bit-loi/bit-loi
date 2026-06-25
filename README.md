@@ -54,6 +54,7 @@ public class Jason {
 | Top 10 | Google APAC Solution Challenge | 2025 |
 | Top 6 | Compsphere KAI Hackathon | 2025 |
 | Innovation Award | BRICS Industrial Innovation Contest — AI Track | 2026 |
+| Semi Finalist | APAC Huawei Developer Competition | 2025 |
 | Participant | ICPC Asia Jakarta Regional | 2025 |
 | Participant | CSC BINUS CTF Contest | 2024 |
 
