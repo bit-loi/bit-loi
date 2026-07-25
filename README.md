@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" alt="walter-gif" src="https://github.com/user-attachments/assets/0ff89d80-90b4-4f31-a768-77e41bb83740" />
+  <img width="100%" alt="walter-gif" src="https://github.com/user-attachments/assets/0ff89d80-90b4-4f31-a768-77e41bb83740" />
 </p>
 
 ### `print("Hello, World! I'm Jason.")`
