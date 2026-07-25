@@ -2,7 +2,7 @@
   <img width="100%" alt="dio-gif" src="https://github.com/user-attachments/assets/fa58af9c-b2a6-4b60-8f0e-11658430fbc0" />
 </p>
 
-### `print("Hello, World! I'm Jason.")`
+### `print("Hello, Za Warudo! Kono Jason Da.")`
 
 *Computer Science Student · Builder · Competitor*
 
