@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/2p_9aGvX6gMAAAAC/breaking-bad-chemistry.gif" alt="Breaking Bad Chemistry" width="80%"/>
+  <img width="288" height="158" alt="walter-gif" src="https://github.com/bit-loi/assets/bdcabf88-c99b-43fd-91e8-71d4a63d4261" />
 </p>
 
 ### `print("Hello, World! I'm Jason.")`
