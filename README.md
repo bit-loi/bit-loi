@@ -37,187 +37,66 @@ public class Jason {
 | Participant | ICPC Asia Jakarta Regional | 2025 |
 | Participant | CSC BINUS CTF Contest | 2024 |
 
+<h3 align="left">Languages:</h3>
 <p align="left">
-
-<!-- Programming Languages -->
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.r-project.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://go.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/c/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a>
-
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+<a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/c/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+<a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+<a href="https://soliditylang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40"/></a>
 </p>
 
+<h3 align="left">Web & Mobile Development:</h3>
 <p align="left">
-
-<!-- Web & Backend -->
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://dotnet.microsoft.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.php.net/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
-</a>
-
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
+<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
+<a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/></a>
+<a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
 </p>
 
+<h3 align="left">Blockchain & Web3:</h3>
 <p align="left">
-
-<!-- Database & DB Tools -->
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-</a>
-
-<a href="https://redis.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://dbeaver.io/" target="_blank">
-<img src="https://img.shields.io/badge/-DBeaver-382923?style=flat&logo=dbeaver&logoColor=white" height="28"/>
-</a>
-
+<a href="https://soliditylang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" height="40"/></a>
+<a href="https://internetcomputer.org/" target="_blank"><img src="https://img.shields.io/badge/-Internet%20Computer-3B00B9?style=flat&logo=internetcomputer&logoColor=white" height="28"/></a>
 </p>
 
+<h3 align="left">Database:</h3>
 <p align="left">
-
-<!-- Cloud -->
-<a href="https://cloud.google.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://azure.microsoft.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
-</a>
-
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/></a>
+<a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/></a>
+<a href="https://dbeaver.io/" target="_blank"><img src="https://img.shields.io/badge/-DBeaver-382923?style=flat&logo=dbeaver&logoColor=white" height="28"/></a>
 </p>
 
+<h3 align="left">DevOps, Cloud & Infra:</h3>
 <p align="left">
-
-<!-- DevOps & Infra & API Tools -->
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.terraform.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-<img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" height="28"/>
-</a>
-
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>
+<a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" height="28"/></a>
 </p>
 
 <h3 align="left">Machine Learning & AI:</h3>
-
 <p align="left">
-
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.langchain.com/" target="_blank">
-<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="28"/>
-</a>
-
+<a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/></a>
+<a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="28"/></a>
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bit-loi&theme=tokyonight" alt="bit-loi" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bit-loi&theme=light" alt="bit-loi" />
 </p>
 
 ![snake gif](https://github.com/bit-loi/bit-loi/blob/output/github-snake-dark.svg)
