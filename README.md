@@ -105,7 +105,7 @@ public class Jason {
 </p>
 
 <p>
-<img align="center" src="https://streak-stats.demolab.com?user=bit-loi&theme=default" alt="bit-loi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bit-loi&show_icons=true" alt="bit-loi" />
 </p>
 
 ![snake gif](https://github.com/bit-loi/bit-loi/blob/output/github-snake-dark.svg)
