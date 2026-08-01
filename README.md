@@ -105,7 +105,15 @@ public class Jason {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-nine-snowy.vercel.app/?user=bit-loi&theme=light&v=refresh" alt="bit-loi" />
+  <img src="https://metrics.lecoq.io/bit-loi?template=classic&base=header,activity,community&config.timezone=Asia%2FJakarta" alt="bit-loi" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bit-loi&theme=default" alt="bit-loi" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bit-loi&theme=minimal" alt="bit-loi" />
 </p>
 
 ![snake gif](https://github.com/bit-loi/bit-loi/blob/output/github-snake-dark.svg)
