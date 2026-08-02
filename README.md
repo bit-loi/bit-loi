@@ -109,10 +109,6 @@ public class Jason {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bit-loi&theme=default" alt="bit-loi" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bit-loi&theme=minimal" alt="bit-loi" />
 </p>
 
