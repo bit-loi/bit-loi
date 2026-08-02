@@ -109,7 +109,7 @@ public class Jason {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bit-loi&theme=minimal" alt="bit-loi" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bit-loi&theme=minimal&line=FFD700&point=FFD700" alt="bit-loi" />
 </p>
 
 ![snake gif](https://github.com/bit-loi/bit-loi/blob/output/github-snake-dark.svg)
