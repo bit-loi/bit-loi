@@ -105,9 +105,9 @@ public class Jason {
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/></a>
 </p>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; wrap: wrap;">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://metrics.lecoq.io/bit-loi?template=classic&base=header,activity,community&config.timezone=Asia%2FJakarta" alt="bit-loi" width="49%" />
-  <img src="./profile-3d-contrib/profile-standard.svg" alt="3D Contribution Graph" width="49%" />
+  <img src="https://raw.githubusercontent.com/bit-loi/bit-loi/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="49%" />
 </p>
 
 <p align="center">
