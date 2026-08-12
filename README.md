@@ -105,11 +105,10 @@ public class Jason {
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/></a>
 </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/bit-loi?template=classic&base=header,activity,community&config.timezone=Asia%2FJakarta" alt="bit-loi" />
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; wrap: wrap;">
+  <img src="https://metrics.lecoq.io/bit-loi?template=classic&base=header,activity,community&config.timezone=Asia%2FJakarta" alt="bit-loi" width="49%" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="49%" />
 </p>
-
-![](./profile-3d-contrib/profile-night-green.svg)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bit-loi&bg_color=0d1117&color=2ea043&line=2ea043&point=2ea043&hide_border=true" alt="bit-loi" />
