@@ -107,7 +107,7 @@ public class Jason {
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://metrics.lecoq.io/bit-loi?template=classic&base=header,activity,community&config.timezone=Asia%2FJakarta" alt="bit-loi" width="49%" />
-  <img src="https://raw.githubusercontent.com/bit-loi/bit-loi/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="49%" />
+  <img src="https://raw.githubusercontent.com/bit-loi/bit-loi/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="49%" />
 </p>
 
 <p align="center">
