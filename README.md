@@ -111,7 +111,7 @@ public class Jason {
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=bit-loi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="bit-loi stats" width="49%" />
-  <img src="https://raw.githubusercontent.com/bit-loi/bit-loi/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="49%" />
+  <img src="https://raw.githubusercontent.com/bit-loi/bit-loi/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph" width="49%" />
 </p>
 
 <p align="center">
