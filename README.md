@@ -110,8 +110,8 @@ public class Jason {
 </p>
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://metrics.lecoq.io/bit-loi?template=classic&base=header,activity,community&config.timezone=Asia%2FJakarta" alt="bit-loi" width="49%" />
-  <img src="https://raw.githubusercontent.com/bit-loi/bit-loi/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bit-loi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="bit-loi stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/bit-loi/bit-loi/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="49%" />
 </p>
 
 <p align="center">
