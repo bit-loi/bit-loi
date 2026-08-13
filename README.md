@@ -8,8 +8,8 @@
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=3d76c2&label=Profile%20views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fbit-loi-github%2Fvisits&style=flat" alt="Profile views" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bit-loi&color=3d76c2&style=flat&label=Profile+views" alt="Profile views" align="center" />
 </p>
 
 ---
