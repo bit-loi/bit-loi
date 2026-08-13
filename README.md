@@ -9,9 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbit-loi%2Fbit-loi&count_bg=%233D76C2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false" alt="Profile views" />
-  </a>
+  <img src="https://visitor-badge-reloaded.moki.workers.dev/bit-loi/bit-loi?color=3d76c2&logo=github&style=flat" alt="Profile views" />
 </p>
 
 ---
