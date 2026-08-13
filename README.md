@@ -110,7 +110,6 @@ public class Jason {
 </p>
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://streak-stats.demolab.com?user=bit-loi&theme=dark&hide_border=true&background=0D1117&v=1" alt="bit-loi streak" width="49%" />
   <img src="https://raw.githubusercontent.com/bit-loi/bit-loi/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="49%" />
 </p>
 
