@@ -113,8 +113,8 @@ public class Jason {
   <img src="https://raw.githubusercontent.com/bit-loi/bit-loi/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bit-loi&bg_color=0d1117&color=2ea043&line=2ea043&point=2ea043&hide_border=true" alt="bit-loi" />
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; background-color: #0d1117; padding: 20px; border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/bit-loi/bit-loi/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="49%" />
 </p>
 
 ![snake gif](https://github.com/bit-loi/bit-loi/blob/output/github-snake-dark.svg)
