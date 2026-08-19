@@ -109,8 +109,12 @@ public class Jason {
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/></a>
 </p>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; padding: 20px; border-radius: 10px;">
-  <img src="https://raw.githubusercontent.com/bit-loi/bit-loi/main/profile-3d-contrib/profile-transparent.svg" alt="3D Contribution Graph" width="49%" />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/bit-loi/bit-loi/main/profile-3d-contrib/profile-green.svg"
+    alt="3D Contribution Graph"
+    width="90%"
+  />
 </p>
 
 ![snake gif](https://github.com/bit-loi/bit-loi/blob/output/github-snake-dark.svg)
