@@ -1,12 +1,19 @@
 [
   {
-    "type": "night-green",
+    "type": "normal",
     "fileName": "profile-transparent.svg",
     "backgroundColor": "transparent",
-    "foregroundColor": "#39d353",
+    "foregroundColor": "#ffffff",
     "strongColor": "#39d353",
-    "weakColor": "#0e4429",
+    "weakColor": "#ffffff",
     "radarColor": "#39d353",
-    "growingAnimation": true
+    "growingAnimation": true,
+    "contribColors": [
+      "#d9f7d9",
+      "#a7e3a7",
+      "#66c966",
+      "#39d353",
+      "#1d6a23"
+    ]
   }
 ]
