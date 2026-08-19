@@ -111,7 +111,7 @@ public class Jason {
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/bit-loi/bit-loi/main/profile-3d-contrib/profile-green.svg"
+    src="https://raw.githubusercontent.com/bit-loi/bit-loi/main/profile-3d-contrib/profile-transparent.svg"
     alt="3D Contribution Graph"
     width="90%"
   />
