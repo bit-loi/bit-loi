@@ -33,7 +33,7 @@ public class Jason {
 | Role / Product | Organization / Venture | Period | Focus |
 |---|---|---|---|
 | **Tech Lead** | LogTrava (`logtrava.com`) | 2025 – Present | System Design, AI/CV Pipelines, APICTA 2026 Entry |
-| **AI Solutions Engineer Intern** | PT Viktori Aksara Teknologi Indonesia (V-TEKI) | Aug 2026 – Feb 2027 | Enterprise AI Solutions & Digital Tech Consulting |
+| **AI Solutions Engineer Intern** | PT Viktori Aksara Teknologi Indonesia (V-TEKI) | Aug 2026 – Oct 2026 | Enterprise AI Solutions & Digital Tech Consulting |
 | **Frontend Developer Intern** | Cyber House | Dec 2024 – Feb 2025 | Component Architecture & API Integration |
 | **Independent AI Builder** | Personal Projects & Competitions | 2024 – Present | Full-Stack AI Products & Security Solutions |
 ---
