@@ -48,7 +48,7 @@ public class Jason {
 | Top 6 | Compsphere KAI Hackathon | 2025 |
 | Top 15 | Selected Project, Binus Computer Science Festival 2026 | 2026 |
 | Top 50 | Finalist MAPID WebGIS Competition 2026 - Maps That Think: Mass Transportation Edition | 2026 | 
-| Appreciation Award | Binus Appreciation Day 2026 Awards | 2026 |
+| Appreciation Award | Binus Appreciation Day 2026 Awards For 1st & 3rd ICP HUB Hackathon | 2026 |
 | Innovation Award | BRICS Industrial Innovation Contest — Artificial Intelligence Track | 2026 |
 | Participant | ICPC Asia Jakarta Regional | 2025 |
 | Participant | CSC BINUS CTF Contest | 2024 |
