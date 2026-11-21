@@ -34,7 +34,7 @@ public class Jason {
 |---|---|---|---|
 | **Former Founder/Tech Lead** | LogTrava (`logtrava.com`) | April 2026 – November 2026 | System Design, AI/CV Pipelines, (Sold Saas and Startup) |
 | **AI Solutions Engineer Intern** | V-TEKI | Aug 2026 – Oct 2026 | Enterprise AI Solutions & Digital Tech Consulting |
-| **Frontend Developer Intern** | Cyber House | Dec 2024 – Feb 2025 | Component Architecture & API Integration |
+| **Frontend Developer Intern** | Cyber House | Dec 2024 – Feb 2025 | Component Architecture & Web Design |
 | **Independent AI Builder** | Personal Projects & Competitions | 2024 – Present | Full-Stack AI Products & Security Solutions |
 ---
 
